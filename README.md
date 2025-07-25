@@ -23,5 +23,3 @@ https://github.com/user-attachments/assets/c9cb67cb-3f3d-4bc1-9a6c-c4a8fba23795
 - HTML5
 - CSS3
 
-## 📁 Project Structure
-
