@@ -1,4 +1,3 @@
-# amazon-clone-html-css
 # Amazon Clone (HTML & CSS)
 
 A front-end Amazon homepage clone built using **HTML** and **CSS** only. This project is created for practice and educational purposes, mimicking the design and layout of the Amazon India website.
